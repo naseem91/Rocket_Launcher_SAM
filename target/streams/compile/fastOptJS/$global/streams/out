@@ -1,0 +1,16 @@
+[0m[[0minfo[0m] [0mFast optimizing C:\Users\Lenovo\Music\speakfreely_js\rocket-launcher-SAM-master\target\scala-2.12\rocketlauncherjs-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 58746 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 19666 us[0m
+[0m[[0mdebug[0m] [0mBasic Linking: 81465 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: false[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 28567 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 4 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 4304 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 36145 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 76428 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 2899 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 79544 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 94 -- invalidated: 1[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 126 -- invalidated: 4[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 35744 us[0m
+[0m[[0mdebug[0m] [0mGlobal IR cache stats: reused: 7 -- invalidated: 1 -- trees read: 1[0m
